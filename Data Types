@@ -1,0 +1,9 @@
+contract SimpleStorage{
+    uint256 favoriteNumber = 5;
+    bool favoriteBool = true;
+    string favoritestring = "Hello";
+    int256 favoriteInteger = -5;
+    address favoriteAdress = 0x84F00704D5F15E3F5B576F65Cf8dF063EABe2B13;
+    bytes32 favoriteBytes = "Cat";
+
+    
